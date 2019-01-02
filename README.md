@@ -10,7 +10,7 @@ Project source can be downloaded from https://github.com/iaingoh/django-blog.git
 
 ## Author & Contributor List
 
-Corey Schafer
+Corey Schafer  
 Iain Goh
 
 ---
