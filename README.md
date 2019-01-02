@@ -8,13 +8,13 @@ Project source can be downloaded from https://github.com/iaingoh/django-blog.git
 
 ---
 
-##Author & Contributor List
+## Author & Contributor List
 Corey Schafer
 Iain Goh
 
 ---
 
-##File List
+## File List
 
 ```
 .:
@@ -73,7 +73,7 @@ tests.py
 views.py
 ```
 
-##How to run file
+## How to run file
 Django, crispy forms, and pillow should already be installed to run this project. If not, you may do so via either pipenv or pip via the following commands:
 ```
 pipenv install django
@@ -88,7 +88,7 @@ With the localhost address, paste it into the browser's address bar and from the
 
 ---
 
-##Project's URL routes run on the development server
+## Project's URL routes run on the development server
 
 ```
 http://localhost/admin/
