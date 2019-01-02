@@ -1,6 +1,7 @@
 # Django Blog
 
-Documentation for a blog built in Django. It was built with Corey Schafer's instructions from his YouTube Django series for the intention of learning and experimenting. You can visit his series at https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p .
+Documentation for a blog built in Django. It was built with Corey Schafer's instructions from his YouTube Django series for the intention of learning and experimenting. You can visit his series at https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p .  
+There is no create post form included and it must be done so via the shell accessed through python manage.py shell .
 
 ---
 
