@@ -75,12 +75,14 @@ views.py
 
 ##How to run file
 Django, crispy forms, and pillow should already be installed to run this project. If not, you may do so via either pipenv or pip via the following commands:
->pipenv install django
->pipenv install django-crispy-forms
->pipenv install Pillow
+```
+pipenv install django
+pipenv install django-crispy-forms
+pipenv install Pillow
+```
 
-Find the project parent directory, and located manage.py.
-Run > \>python manage.py runserver
+Find the project parent directory, and locate manage.py .
+Run python manage.py runserver
 
 With the localhost address, paste it into the browser's address bar and from there you will be redirected to the project's home page.
 
