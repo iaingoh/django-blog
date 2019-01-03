@@ -20,7 +20,6 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'templates_corey_schafer.apps.TemplatesCoreySchaferConfig',
-    'user_registration.apps.UserRegistrationConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
     'django.contrib.admin',
